@@ -8,7 +8,7 @@ width = 1280
 height = 720
 
 window = pygame.display.set_mode((width,height))
-pygame.display.set_caption("Langton's ants")
+pygame.display.set_caption("Langton's Ant")
 
 class Window(object):
     def __init__(self):
